@@ -1,0 +1,11 @@
+Day 4 – SKY130 Synthesis
+
+Study of synthesized designs using the SKY130 standard-cell library.
+
+Topics covered:
+- SKY130 standard cells
+- Technology mapping
+- Synthesized netlist
+- Schematic generation
+- Netlist analysis
+- Design verification
