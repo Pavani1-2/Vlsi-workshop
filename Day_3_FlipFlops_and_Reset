@@ -1,0 +1,11 @@
+Day 3 – Flip-Flop Design
+
+Study and simulation of D flip-flops with different reset and set configurations.
+
+Topics covered:
+- D flip-flop
+- Asynchronous reset
+- Asynchronous set
+- Synchronous reset
+- Clock and data signals
+- GTKWave waveform analysis
