@@ -1,0 +1,20 @@
+# VLSI Lab Environment
+
+## Overview
+
+This section documents the laboratory environment used for carrying out RTL design, simulation and synthesis experiments.
+
+## Laboratory Workflow
+
+```text
+Design Environment
+       ↓
+Verilog RTL Development
+       ↓
+RTL Simulation
+       ↓
+Waveform Analysis
+       ↓
+Logic Synthesis
+       ↓
+Gate-Level Analysis
